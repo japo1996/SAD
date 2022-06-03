@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author entel
+ * @author japol
  */
 public class Line extends Observable {
 
